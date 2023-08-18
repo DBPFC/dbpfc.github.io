@@ -7,7 +7,7 @@
   <h1>Icon Gallery</h1>
   
 <div>
-<img src="[https://github.com/DBPFC/dbpfc.github.io/blob/main/R0_Dot_Icon_0.6cm.png](https://github.com/DBPFC/dbpfc.github.io/raw/main/R0_Dot_Icon_0.6cm.png)" alt="R0_Dot_Icon_0.6cm" width = "30px" height="30px">
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/R0_Dot_Icon_0.6cm.png" alt="R0_Dot_Icon_0.6cm" width = "30px" height="30px">
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/blob/main/R0_Dot_Icon_0.6cm.png" alt="R0_Dot_Icon_0.6cm" width = "30px" height="30px">
 <br>
