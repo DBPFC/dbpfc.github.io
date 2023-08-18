@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
-    @echo
 <head>
     <title>RAG Conversion Table</title>
     <style>
         table {
             border-collapse: collapse;
             width: 60%;
-            Table-align: centre;
+            margin: 0 auto; /* Center the table */
         }
 
         th, td {
@@ -21,11 +20,11 @@
         }
     </style>
 </head>
-<div>
 <body>
+<div>
 <h1>Purpose</h1>
   <p>This table has been created to convert qualitative RAG values into quantitative RAG metrics,
-  this is availible to use to query in your data models and reports</p>
+  this is available to use to query in your data models and reports</p>
     <h2>RAG Conversion Table</h2>
     <table>
       <tr>
