@@ -20,6 +20,7 @@
         }
     </style>
 </head>
+<div>
 <body>
 <h1>Purpose</h1>
   <p>This table has been created to convert qualitative RAG values into quantitative RAG metrics,
@@ -217,5 +218,6 @@
 <td><a href=""https://github.com/DBPFC/dbpfc.github.io/raw/main/G0_Dot_Icon_0.6cm.png >https://github.com/DBPFC/dbpfc.github.io/raw/main/G0_Dot_Icon_0.6cm.png </a></td>
 </tr>
     </table>
+</div>
 </body>
 </html>
