@@ -27,8 +27,6 @@
 <img src="https://github.com/DBPFC/dbpfc.github.io/blob/main/AR3_Arrow_NoChange.png" alt="AR3_Arrow_NoChange">
 <img src="https://github.com/DBPFC/dbpfc.github.io/blob/main/AR4_Arrow_Diminished.png" alt="AR4_Arrow_Diminished">
 <img src="https://github.com/DBPFC/dbpfc.github.io/blob/main/AG4_Arrow_Diminished.png" alt="AG4_Arrow_Diminished">
-![image](https://github.com/DBPFC/dbpfc.github.io/assets/142551446/f283e769-a252-413e-a780-cc05f2ab775e)
-
 
  </div>
 </body>
