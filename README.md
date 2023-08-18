@@ -12,6 +12,12 @@
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AR0_Dot_Icon_0.6cm.png" alt="AR0_Dot_Icon_0.6cm" width = "25px" height="25px">
 <br>
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/R0_Dot_Icon_0.6cm.png" alt="R0_Dot_Icon_0.6cm" width = "25px" height="25px">
+<br>
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AR0_Dot_Icon_0.6cm.png" alt="AR0_Dot_Icon_0.6cm" width = "25px" height="25px">
+<br>
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AR0_Dot_Icon_0.6cm.png" alt="AR0_Dot_Icon_0.6cm" width = "25px" height="25px">
+<br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG0_Dot_Icon_0.6cm.png" alt="AG0_Dot_Icon_0.6cm" width = "25px" height="25px">
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/G0_Dot_Icon_0.6cm.png" alt="G0_Dot_Icon_0.6cm" width = "25px" height="25px">
@@ -44,6 +50,12 @@
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG4_Arrow_Diminished.png" alt="AG4_Arrow_Diminished" width = "25px" height="25px">
 <br>
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG4_Arrow_Diminished.png" alt="A4_Arrow_Diminished" width = "25px" height="25px">
+<br>
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG4_Arrow_Diminished.png" alt="R4_Arrow_Diminished" width = "25px" height="25px">
+<br>
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG4_Arrow_Diminished.png" alt="G4_Arrow_Diminished" width = "25px" height="25px">
+>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/EM1_EMPTY.png" alt="EM1_Empty" width = "25px" height="25px">
 </div>
 </body>
