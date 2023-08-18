@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Public Icon Gallery</title>
@@ -44,6 +43,7 @@
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AR4_Arrow_Diminished.png" alt="AR4_Arrow_Diminished" width = "25px" height="25px">
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG4_Arrow_Diminished.png" alt="AG4_Arrow_Diminished" width = "25px" height="25px">
+<br>
 <br>
 ![image](https://github.com/DBPFC/dbpfc.github.io/assets/142551446/4acbb0f5-f9e5-4352-86c3-855a93358376)
 
