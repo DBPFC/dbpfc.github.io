@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-  <h1>Icon Gallery</h1>
+  <h1>Public Icon Gallery</h1>
   
 <div>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/R0_Dot_Icon_0.6cm.png" alt="R0_Dot_Icon_0.6cm" width = "25px" height="25px">
