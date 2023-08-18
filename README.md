@@ -45,8 +45,8 @@
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG4_Arrow_Diminished.png" alt="R4_Arrow_Diminished" width = "25px" height="25px">
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/G4_Arrow_Diminished.png" alt="G4_Arrow_Diminished" width = "25px" height="25px">
-<br>>
-<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/DOT_ICON_0.6.png" alt="EM1_Empty" width = "25px" height="25px">
+<br>
+<img src="[https://github.com/DBPFC/dbpfc.github.io/raw/main/DOT_ICON_0.6.png" alt="EM1_Empty" width = "25px" height="25px">
 </div>
 </body>
 </html>
