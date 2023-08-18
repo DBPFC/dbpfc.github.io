@@ -44,7 +44,7 @@
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/AG4_Arrow_Diminished.png" alt="AG4_Arrow_Diminished" width = "25px" height="25px">
 <br>
-<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/EM1_Empty.png" alt="EM1_Empty" width = "25px" height="25px">
+<img src="https://github.com/DBPFC/dbpfc.github.io/raw/main/EM1_EMPTY.png" alt="EM1_Empty" width = "25px" height="25px">
 </div>
 </body>
 </html>
