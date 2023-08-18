@@ -44,11 +44,8 @@
 <img src="https://github.com/DBPFC/dbpfc.github.io/blob/main/AR4_Arrow_Diminished.png" alt="AR4_Arrow_Diminished" width = "30px" height="30px">
 <br>
 <img src="https://github.com/DBPFC/dbpfc.github.io/blob/main/AG4_Arrow_Diminished.png" alt="AG4_Arrow_Diminished" width = "30px" height="30px">
+<br>
 ![image](https://github.com/DBPFC/dbpfc.github.io/assets/142551446/d00d746e-586b-49ee-917b-089f57b2786c)
-
-
-
-
 </div>
 </body>
 </html>
