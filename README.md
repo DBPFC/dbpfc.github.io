@@ -35,7 +35,7 @@
 <td>Arrow</td>
 <td>Deteriorated</td>
 <td>Deteriorated status action now required</td>
-<td><a href=""https://github.com/DBPFC/dbpfc.github.io/raw/main/R4_Arrow_Deminished.png >https://github.com/DBPFC/dbpfc.github.io/raw/main/R4_Arrow_Deminished.png </a></td></tr>
+<td><a href="https://github.com/DBPFC/dbpfc.github.io/raw/main/R4_Arrow_Deminished.png >https://github.com/DBPFC/dbpfc.github.io/raw/main/R4_Arrow_Deminished.png" </a></td></tr>
 <tr>
 <td>AR4</td>
 <td>AMBER RED</td>
